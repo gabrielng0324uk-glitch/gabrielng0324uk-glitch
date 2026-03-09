@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a developer who enjoys the process of building things from scratch. Whether it's a complex enterprise system or a small side project, I'm always looking for ways to create better digital experiences.
+
 <!--
 **gabrielng0324uk-glitch/gabrielng0324uk-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
